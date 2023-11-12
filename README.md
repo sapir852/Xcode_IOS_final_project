@@ -1,4 +1,4 @@
-# IOS_final_STUDIEX
+# IOS_final_project
 
 _Final Project:_
 
